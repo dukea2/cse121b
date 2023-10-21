@@ -40,7 +40,7 @@
 }
 
 #generate:hover {
-    background-color: grey;
+    background-color: #444;
     box-shadow:0px 0px 2px black;
 }
 
